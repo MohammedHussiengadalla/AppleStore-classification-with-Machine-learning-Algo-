@@ -1,8 +1,10 @@
 # AppleStore-classification-with-Machine-learning-Algo-
+
 using Machine Learning Algorithm to classification AppleStore  application.
  
 the first step :
 1: preprocessin 
+
      1.1: remove nulls
      1.2: normalize data 
      1.3: replace string to int in coulmn rate 
